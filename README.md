@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @isacf96
 - 👀 I’m interested in Analytics
-- 🌱 I’m currently learning SQL, DAX
-- 💞️ I’m looking to collaborate on data analysis on Python
-- 📫 How to reach me Telegram +37378415503
+- 📫 How to reach me on Telegram @isacovmv
 
 <!---
 isacf96/isacf96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
